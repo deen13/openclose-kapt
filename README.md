@@ -1,5 +1,7 @@
 # Open Close Principle
-aka 
+
+Solution to the [Open Close Principle Kata](https://github.com/SmartsquareGmbH/openclose) using kotlin annotation processing.
+
 ## The yummiest Coding Dojo ever! :icecream: :yum:
 
 Imagine summer...:sunny: :sunglasses:
