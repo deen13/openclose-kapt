@@ -1,0 +1,23 @@
+buildscript {
+    ext {
+        detektVersion = "1.14.1"
+    }
+
+    repositories {
+        jcenter()
+    }
+
+    dependencies {
+        classpath "io.gitlab.arturbosch.detekt:detekt-gradle-plugin:$detektVersion"
+    }
+}
+
+allprojects {
+    group = "de.smartsquare.openclose"
+    version = "0.1.0"
+
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+}

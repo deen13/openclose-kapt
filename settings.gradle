@@ -1,0 +1,5 @@
+rootProject.name = 'openclose-poet'
+
+include 'codegen'
+include 'openclose'
+include 'annotations'
